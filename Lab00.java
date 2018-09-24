@@ -9,8 +9,8 @@ public class Lab00
     System.out.println("x:", x, "y:", y, "z:", z);
 
     int[] nums= {3, 6, -1, 2};
-    for (int x : nums)
-        System.out.println(x);
+    for (int j : nums)
+        System.out.println(j);
 
     int numFound = char_count(y, 'l');
     System.out.println("Found:", numFound);
@@ -36,5 +36,5 @@ public class Lab00
 
 
 
-   }
+
 }
