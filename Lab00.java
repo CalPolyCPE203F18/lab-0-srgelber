@@ -17,7 +17,7 @@ public class Lab00
 
     for(int i = 1; i < 11; i++)
         System.out.print(i + " ");
-    System.out.print("");
+    System.out.print("\n");
 
 
 
